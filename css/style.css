@@ -265,3 +265,16 @@ p {
   color: #fff;
   padding: 20px;
 }
+
+#main-footer a{
+  color:#fff;
+}
+
+#main-footer a:hover{
+  color:#f7c08a;
+}
+
+/* logo */
+.logo a:hover{
+  color:#f7c08a !important;
+}
